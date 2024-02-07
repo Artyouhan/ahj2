@@ -1,3 +1,5 @@
-[![Build status](https://ci.appveyor.com/api/projects/status/kxw65qa2f9ti51e7/branch/main?svg=true)](https://ci.appveyor.com/project/Svetlana-Arkhipova/ahj11-task5/branch/master)
+# Домашнее задание к занятию "Работа с HTML-формами"
 
-https://svetlana-arkhipova.github.io/ahj11-task5/
+[Ссылка на задание](https://github.com/netology-code/ahj-homeworks/tree/AHJ-50/forms)
+
+![CI](https://github.com/Artyouhan/ahj-homeworks-forms/actions/workflows/webpack.yml/badge.svg)
